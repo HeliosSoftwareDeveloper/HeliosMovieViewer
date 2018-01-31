@@ -13,7 +13,7 @@ Sample Application to demonstrate MVP pattern with the following features:
 <ul>
   <li>Single-pane and Multi-pane Layouts</li>
   <li>RecyclerView with SwipeRefreshLayout</li>
-  <li>Re-using Layouts with <include/></li>
+  <li>Re-using Layouts with 'include'</li>
   <li>CardView</li>
   <li>Toolbar</li>
   <li>AlertDialog</li>
