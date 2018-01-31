@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieViewer(Android-MVP)</string>
+    <string name="movie_details"><![CDATA[
+                            <b>Language:</b> [lang]&nbsp;&nbsp;|&nbsp;&nbsp;
+                            <b>Rated:</b> [rated]<br /><br />
+                            <b>Run Time:</b> [min] Minutes<br /><br />
+                            <b>Overview:</b><br />[over]
+                            ]]></string>
+</resources>
