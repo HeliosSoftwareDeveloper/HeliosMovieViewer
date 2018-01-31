@@ -17,6 +17,7 @@ Sample Application to demonstrate MVP pattern with the following features:
   <li>CardView</li>
   <li>Toolbar</li>
   <li>AlertDialog</li>
+  <li>RatingBar</li>
 </ul>
 
 <b>App Screenshots:</b>
